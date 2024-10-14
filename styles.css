@@ -11,7 +11,7 @@ h1{background-color: ghostwhite;
 
 }
 .secondDiv{background-color: crimson;
-    align-items: center
+    /* align-items: center */
     justify-content:center
     display:flex;
 
@@ -21,7 +21,7 @@ button{
     margin-right: 100px;
     margin-top: 100px;
     margin-bottom: 100px;
-    padding: 50px 100px;
+    padding: 500px 100px;
     cursor: pointer
     
 }
