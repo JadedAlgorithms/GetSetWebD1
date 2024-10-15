@@ -26,6 +26,6 @@ button{
     
 }
 button:hover{background-color: gray;
-    border: 10px dotted slateblue;
+    border: 10px solid;
 
 }
